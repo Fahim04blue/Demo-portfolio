@@ -1,0 +1,114 @@
+section{
+    height: 500px;
+}
+body{
+    font-family: 'Xanh Mono', monospace;
+    margin: 0;
+}
+h2{
+    font-size: 50px;
+    color: rgb(16, 105, 138);
+}
+h1{
+    font-family: 'Staatliches', cursive;
+    font-size: 40px;
+    color: #fca903;
+}
+p{
+    line-height: 2;
+}
+
+
+
+
+/*****class******/
+
+.top-banner{
+    background-image: url("Images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.top-container{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    
+}
+.top-container img{
+    width: 100%;
+}
+.top-para{
+    padding-bottom: 10px;
+    padding-right: 280px;
+}
+.link-btn{
+    text-decoration: none;
+    background: rgb(230, 82, 24);
+    background-image: linear-gradient( rgb(230, 82, 24),tomato);
+    border-radius: 5px;
+    height: 3px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 5px 15px;
+    font-display: inline-block;
+    
+}
+
+.second-container{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.second-cont-heading{
+    color: rgb(92, 205, 209);
+    font-size: 40px;
+}
+
+.second-banner{
+    background-image: url("Images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.second-para{
+    padding-bottom: 10px;
+    padding-right: 295px;
+}
+.latest-work-projects{
+    padding-top: 50px;
+    background-image: url("Images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.project-heading1{
+    text-align: center;
+    color: black;
+}
+.red-highlight{
+    color: rgb(175, 9, 9);
+}
+.project{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 40px;
+    width: 22%;
+    height: 70%;
+    float: left;
+    margin-left: 7%;
+    padding-top: 2%;
+    padding-left: 2%;
+    
+    
+}
+.project img{
+    width: 100%;
+    
+    
+}
+.project-heading2
+{
+    font-size: 30px;
+    color: rgb(9, 73, 156);
+}
