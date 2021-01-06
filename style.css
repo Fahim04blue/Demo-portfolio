@@ -21,7 +21,7 @@ p{
 
 
 
-/*****class******/
+/*****class & ID******/
 
 .top-banner{
     background-image: url("Images/header-bg.png");
@@ -112,10 +112,6 @@ p{
     font-size: 30px;
     color: rgb(9, 73, 156);
 }
-
-
-
-
 
 .work-bg{
    background-image: url("Images/Group-33094-1.png");
